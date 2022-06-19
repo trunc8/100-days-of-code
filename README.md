@@ -5,3 +5,4 @@
 - 208_Implement Trie (Prefix Tree)
 
 ### Day 2
+- 745_Prefix and Suffix Search
