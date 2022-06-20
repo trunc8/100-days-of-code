@@ -1,20 +1,21 @@
+
+// Solution 1: Using vector of node pointers
 struct Node{
-    vector<Node*> nodeptr;
+    vector<shared_ptr<Node>> nodeptr;
     char ch;
     bool is_end_of_word;
 };
 
 class Trie {
 private:
-    Node* root;
+    shared_ptr<Node> root;
 public:
     Trie() {
-        root = new Node();
-        // root->is_end_of_word = true;
+        root = shared_ptr<Node>(new Node());
     }
     
     void insert(string word) {
-        Node* curr_node = root;
+        shared_ptr<Node> curr_node = root;
         bool found_so_far = true;
         for (auto w : word) {
             
@@ -32,7 +33,7 @@ public:
             }
             
             if (!ch_found) {
-                Node* new_node = new Node();
+                shared_ptr<Node> new_node = shared_ptr<Node>(new Node());
                 new_node->ch = w;
                 new_node->is_end_of_word = false;
                 curr_node->nodeptr.push_back(new_node);
@@ -44,7 +45,7 @@ public:
     }
     
     bool search(string word) {
-        Node* curr_node = root;
+        shared_ptr<Node> curr_node = root;
         for (auto w : word) {            
             bool ch_found = false;           
             for (auto n : curr_node->nodeptr) {
@@ -61,7 +62,7 @@ public:
     }
     
     bool startsWith(string prefix) {
-        Node* curr_node = root;
+        shared_ptr<Node> curr_node = root;
         for (auto w : prefix) {            
             bool ch_found = false;           
             for (auto n : curr_node->nodeptr) {
