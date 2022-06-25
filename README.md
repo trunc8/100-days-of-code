@@ -8,7 +8,7 @@
 ### Day 2 (19-Jun-22)
 - 745_Prefix and Suffix Search
     + [Trie with multiple parameters](https://stackoverflow.com/a/70726224/7589046)
-- [09:22 hrs] Have been using naked pointers a lot for #208 and #745. Very unclean code too
+    + [09:22 hrs] Have been using naked pointers a lot for #208 and #745. Very unclean code too
 - 2_Add Two Numbers
 
 
@@ -29,7 +29,6 @@
 ### Day 5 (23-Jun-22)
 - 215_Kth Largest Element in an Array
     + Comment: Didn't actually solve this. Just used STL function `std::sort()`
-    + So I learned that STL `sort()` uses introsort: hybrid of quicksort, heapsort and insertion sort
     + Will try to solve it again without using non-trivial STL functions
 
 
@@ -43,3 +42,6 @@
 ### Day 7 (25-Jun-22)
 - 1642_Furthest Building You Can Reach
     + Finally solved this!!
+- 665_Non-decreasing Array
+- 215_Kth Largest Element in an Array
+    + Solution 2: Solved using `priority_queue`

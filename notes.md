@@ -1,0 +1,4 @@
+- `std::sort()` uses introsort: hybrid of quicksort, heapsort and insertion sort
+- Types of self-balancing tress: Red-black trees, AVL trees, etc
+- `std::map` uses red-black trees
+- `std::unordered_map` uses hashmap/hashtable
