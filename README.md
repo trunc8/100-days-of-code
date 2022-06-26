@@ -46,16 +46,20 @@
     + Finally solved this!! Used [#215][]
 - [#665][]: Non-decreasing Array
 
+
 #### Day 8 (26-Jun-22)
 - [#217][]: Contains Duplicate
 - [#125][]: Valid Palindrome
 - [#1423][]: Maximum Points You Can Obtain from Cards
     + Feel pretty rusty with both the solutions I wrote
+    + Replaced soln 2. Feel more confident of testcase coverage with this soln 2.
+- [#121][]: Best Time to Buy and Sell Stock
 
 
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
+[#125]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 [#125]:     https://leetcode.com/problems/valid-palindrome
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array

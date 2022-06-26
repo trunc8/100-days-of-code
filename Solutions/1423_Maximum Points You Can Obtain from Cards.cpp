@@ -32,26 +32,22 @@ public:
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
-        // maintain sum of N-k elements
-        // minimize and subtract from tot sum
-        int N = cardPoints.size();
         int tot_sum = 0;
         for( auto card : cardPoints )
             tot_sum += card;
+        int answer  = INT_MIN;
+        int N       = cardPoints.size();
         int mid_sum = 0;
-        int min_sum = INT_MAX;
-        for( int elem=1; elem<=N; elem++ ){
-            if( elem<=N-k){
-                mid_sum += cardPoints[elem-1];
-                continue;
-            }
-            if( min_sum > mid_sum )
-                min_sum = mid_sum;
-            mid_sum += cardPoints[elem-1];
-            mid_sum -= cardPoints[elem-1-(N-k)];
+        int index;
+        for( index = 0; index < N-k; index++ ){
+            mid_sum += cardPoints.at(index);
         }
-        if( min_sum > mid_sum )
-            min_sum = mid_sum;
-        return tot_sum - min_sum;
+        answer      = max(answer, tot_sum-mid_sum);
+        for( ; index < N; index++ ){
+            mid_sum += cardPoints.at( index );
+            mid_sum -= cardPoints.at( index-(N-k) );
+            answer  = max(answer, tot_sum-mid_sum);            
+        }
+        return answer;
     }
 };
