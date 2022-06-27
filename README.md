@@ -56,10 +56,13 @@
 - [#121][]: Best Time to Buy and Sell Stock
 
 
+#### Day 9 (27-Jun-22)
+- [#1689][]: Partitioning Into Minimum Number Of Deci-Binary Numbers
+
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
-[#125]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+[#121]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 [#125]:     https://leetcode.com/problems/valid-palindrome
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
@@ -71,3 +74,4 @@
 [#745]:     https://leetcode.com/problems/prefix-and-suffix-search
 [#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
+[#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
