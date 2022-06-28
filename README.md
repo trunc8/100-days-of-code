@@ -59,6 +59,9 @@
 #### Day 9 (27-Jun-22)
 - [#1689][]: Partitioning Into Minimum Number Of Deci-Binary Numbers
 
+#### Day 10 (28-Jun-22)
+- [#1647][]: Minimum Deletions to Make Character Frequencies Unique
+
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
@@ -74,4 +77,5 @@
 [#745]:     https://leetcode.com/problems/prefix-and-suffix-search
 [#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
+[#1647]:    https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
 [#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
