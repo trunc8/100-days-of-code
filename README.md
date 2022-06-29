@@ -62,6 +62,10 @@
 #### Day 10 (28-Jun-22)
 - [#1647][]: Minimum Deletions to Make Character Frequencies Unique
 
+#### Day 11 (29-Jun-22)
+- [#406][]: Queue Reconstruction by Height
+
+
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
@@ -70,6 +74,7 @@
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
 [#217]:     https://leetcode.com/problems/contains-duplicate/
+[#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
 [#665]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#700]:     https://leetcode.com/problems/search-in-a-binary-search-tree
 [#701]:     https://leetcode.com/problems/insert-into-a-binary-search-tree
