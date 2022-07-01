@@ -65,6 +65,12 @@
 #### Day 11 (29-Jun-22)
 - [#406][]: Queue Reconstruction by Height
 
+#### Day 12 (30-Jun-22)
+- [#462][]: Minimum Moves to Equal Array Elements II
+
+#### Day 13 (01-Jul-22)
+- [#1710][]: Maximum Units on a Truck
+
 
 
 [#1]:       https://leetcode.com/problems/two-sum
@@ -75,6 +81,7 @@
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
 [#217]:     https://leetcode.com/problems/contains-duplicate/
 [#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
+[#462]:     https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
 [#665]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#700]:     https://leetcode.com/problems/search-in-a-binary-search-tree
 [#701]:     https://leetcode.com/problems/insert-into-a-binary-search-tree
@@ -84,3 +91,4 @@
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
 [#1647]:    https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
 [#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+[#1710]:    https://leetcode.com/problems/maximum-units-on-a-truck/
