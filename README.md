@@ -72,11 +72,23 @@
 - [#1710][]: Maximum Units on a Truck
 
 
+#### Day 14 (02-Jul-22)
+- [#1465][]: Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+
+// Skipped a day
+
+#### Day 15 (04-Jul-22)
+- [#135][]: Candy
+
+#### Day 16 (04-Jul-22)
+- [#128][]: Longest Consecutive Sequence
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
 [#121]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 [#125]:     https://leetcode.com/problems/valid-palindrome
+[#128]:     https://leetcode.com/problems/longest-consecutive-sequence
+[#135]:     https://leetcode.com/problems/candy
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
 [#217]:     https://leetcode.com/problems/contains-duplicate/
@@ -88,6 +100,7 @@
 [#703]:     https://leetcode.com/problems/kth-largest-element-in-a-stream
 [#745]:     https://leetcode.com/problems/prefix-and-suffix-search
 [#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+[#1465]:    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
 [#1647]:    https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
 [#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/

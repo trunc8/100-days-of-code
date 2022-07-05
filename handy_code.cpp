@@ -19,9 +19,21 @@ public:
 };
 
 
-
 void print( vector<int>& heights ){
     for( auto num : heights )
         cout << num << " ";
     cout << endl;
+}
+
+
+vector<int> getSortPositions( const vector<int>& nums ){
+    vector<int> sorted_pos( nums.size(), 0 );
+    for( int i=0; i<nums.size(); i++ ){
+        sorted_pos.at(i) = i;
+    }
+    sort( sorted_pos.begin(), sorted_pos.end(),
+        [&]( int p1, int p2 ){
+            return nums.at(p1) < nums.at(p2);
+        });
+    return sorted_pos;
 }
