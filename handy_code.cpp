@@ -37,3 +37,15 @@ vector<int> getSortPositions( const vector<int>& nums ){
         });
     return sorted_pos;
 }
+
+
+vector<int> getBitRepresentation( int n ){
+    vector<int> bit_rep( ceil(log2(n+1)), 0 );
+    int i=0;
+    while( n ){
+        bit_rep.at( i ) = n%2;
+        n = n/2;
+        i++;
+    }
+    return bit_rep;
+}

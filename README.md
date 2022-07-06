@@ -85,6 +85,8 @@
 
 #### Day 17 (06-Jul-22)
 - [#509][]: Fibonacci Number
+- [#376][]: Wiggle Subsequence
+- [#338][]: Counting Bits
 
 
 [#1]:       https://leetcode.com/problems/two-sum
@@ -96,6 +98,8 @@
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
 [#217]:     https://leetcode.com/problems/contains-duplicate/
+[#338]:     https://leetcode.com/problems/counting-bits/
+[#376]:     https://leetcode.com/problems/wiggle-subsequence/
 [#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
 [#462]:     https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
 [#509]:     https://leetcode.com/problems/fibonacci-number
