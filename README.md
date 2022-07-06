@@ -87,7 +87,8 @@
 - [#509][]: Fibonacci Number
 - [#376][]: Wiggle Subsequence
 - [#338][]: Counting Bits
-
+- [#371][]: Sum of Two Integers
+    + Solution 2: Learned about unsigned int in context of bitwise operations
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
@@ -99,6 +100,7 @@
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
 [#217]:     https://leetcode.com/problems/contains-duplicate/
 [#338]:     https://leetcode.com/problems/counting-bits/
+[#371]:     https://leetcode.com/problems/sum-of-two-integers/
 [#376]:     https://leetcode.com/problems/wiggle-subsequence/
 [#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
 [#462]:     https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
