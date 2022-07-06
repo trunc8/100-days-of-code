@@ -33,3 +33,14 @@ public:
         return bit_count;
     }
 };
+
+// Solution 3: Using __builtin_popcount
+class Solution {
+public:
+    vector<int> countBits(int n) {
+        vector<int> bit_count( n+1 );
+        for( int i=1; i<=n; i++ )
+            bit_count.at( i ) = __builtin_popcount( i );
+        return bit_count;
+    }
+};
