@@ -89,13 +89,17 @@
 - [#338][]: Counting Bits
 - [#371][]: Sum of Two Integers
     + Solution 2: Learned about unsigned int in context of bitwise operations
+- [#15][]: 3Sum
 
 #### Day 18 (07-Jul-22)
 - [#97][]: Interleaving String
 
+#### Day 19 (08-Jul-22)
+- [#1473][]: Paint House III
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
+[#15]:      https://leetcode.com/problems/3sum
 [#97]:      https://leetcode.com/problems/interleaving-string/
 [#121]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 [#125]:     https://leetcode.com/problems/valid-palindrome
@@ -117,6 +121,7 @@
 [#745]:     https://leetcode.com/problems/prefix-and-suffix-search
 [#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [#1465]:    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+[#1473]:    https://leetcode.com/problems/paint-house-iii/
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
 [#1647]:    https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
 [#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
