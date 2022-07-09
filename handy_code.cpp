@@ -49,3 +49,19 @@ vector<int> getBitRepresentation( int n ){
     }
     return bit_rep;
 }
+
+
+vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+    vector<int> max_window;
+    deque<int> d;
+    for( int i=0; i<nums.size(); i++ ){
+        while( !d.empty() and d.front() == i-k )
+            d.pop_front();
+        while( !d.empty() and nums.at( i ) >= nums.at( d.back() ))
+            d.pop_back();
+        d.push_back( i );
+        if( i >= k-1 )
+            max_window.push_back( nums.at(d.front()) );
+    }
+    return max_window;
+}
