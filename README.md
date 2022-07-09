@@ -8,7 +8,7 @@
 #### Day 2 (19-Jun-22)
 - [#745][]: Prefix and Suffix Search
     + [Trie with multiple parameters](https://stackoverflow.com/a/70726224/7589046)
-    + @09:22 hrs Have been using naked pointers a lot for [#208][] and [#745][]. Very unclean code too
+    + Have been using naked pointers a lot for [#208][] and [#745][]. Very unclean code too
 - [#2][]: Add Two Numbers
 
 
@@ -97,6 +97,11 @@
 #### Day 19 (08-Jul-22)
 - [#1473][]: Paint House III
 
+#### Day 20 (09-Jul-22)
+- [#1696][]: Jump Game VI
+
+
+
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
 [#15]:      https://leetcode.com/problems/3sum
@@ -125,4 +130,5 @@
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
 [#1647]:    https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
 [#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+[#1696]:    https://leetcode.com/problems/jump-game-vi/
 [#1710]:    https://leetcode.com/problems/maximum-units-on-a-truck/
