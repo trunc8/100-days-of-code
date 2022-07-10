@@ -101,6 +101,9 @@
 - [#1696][]: Jump Game VI
 - [#239][]: Sliding Window Maximum
 
+#### Day 21 (10-Jul-22)
+- [#746][]: Min Cost Climbing Stairs
+
 
 
 [#1]:       https://leetcode.com/problems/two-sum
@@ -126,6 +129,7 @@
 [#701]:     https://leetcode.com/problems/insert-into-a-binary-search-tree
 [#703]:     https://leetcode.com/problems/kth-largest-element-in-a-stream
 [#745]:     https://leetcode.com/problems/prefix-and-suffix-search
+[#746]:     https://leetcode.com/problems/min-cost-climbing-stairs
 [#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [#1465]:    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 [#1473]:    https://leetcode.com/problems/paint-house-iii/
