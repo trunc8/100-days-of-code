@@ -108,10 +108,11 @@
 - [#199][]: Binary Tree Right Side View
 
 #### Day 23 (12-Jul-22)
-- [#][]: 
+- [#473][]: Matchsticks to Square
+    + Couldn't completely solve it
 
 #### Day 24 (13-Jul-22)
-- [#][]: 
+- [#102][]: Binary Tree Level Order Traversal
 
 #### Day 25 (14-Jul-22)
 - [#][]: 
@@ -129,6 +130,7 @@
 [#125]:     https://leetcode.com/problems/valid-palindrome
 [#128]:     https://leetcode.com/problems/longest-consecutive-sequence
 [#135]:     https://leetcode.com/problems/candy
+[#102]:     https://leetcode.com/problems/binary-tree-level-order-traversal
 [#199]:     https://leetcode.com/problems/binary-tree-right-side-view
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
@@ -139,6 +141,7 @@
 [#376]:     https://leetcode.com/problems/wiggle-subsequence/
 [#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
 [#462]:     https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
+[#473]:     https://leetcode.com/problems/matchsticks-to-square
 [#509]:     https://leetcode.com/problems/fibonacci-number
 [#665]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#700]:     https://leetcode.com/problems/search-in-a-binary-search-tree
