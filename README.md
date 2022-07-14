@@ -113,19 +113,26 @@
 
 #### Day 24 (13-Jul-22)
 - [#102][]: Binary Tree Level Order Traversal
+- [#416][]: Partition Equal Subset Sum
 
 #### Day 25 (14-Jul-22)
-- [#][]: 
+- [#105][]: Construct Binary Tree from Preorder and Inorder Traversal
 
 #### Day 26 (15-Jul-22)
 - [#][]: 
 
+#### Day 27 (16-Jul-22)
+- [#][]: 
+
+#### Day 28 (17-Jul-22)
+- [#][]: 
 
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
 [#15]:      https://leetcode.com/problems/3sum
 [#97]:      https://leetcode.com/problems/interleaving-string/
+[#105]:      https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [#121]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 [#125]:     https://leetcode.com/problems/valid-palindrome
 [#128]:     https://leetcode.com/problems/longest-consecutive-sequence
@@ -140,6 +147,7 @@
 [#371]:     https://leetcode.com/problems/sum-of-two-integers/
 [#376]:     https://leetcode.com/problems/wiggle-subsequence/
 [#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
+[#416]:     https://leetcode.com/problems/partition-equal-subset-sum
 [#462]:     https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
 [#473]:     https://leetcode.com/problems/matchsticks-to-square
 [#509]:     https://leetcode.com/problems/fibonacci-number
