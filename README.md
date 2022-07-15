@@ -119,7 +119,7 @@
 - [#105][]: Construct Binary Tree from Preorder and Inorder Traversal
 
 #### Day 26 (15-Jul-22)
-- [#][]: 
+- [#695][]: Max Area of Island 
 
 #### Day 27 (16-Jul-22)
 - [#][]: 
@@ -152,6 +152,7 @@
 [#473]:     https://leetcode.com/problems/matchsticks-to-square
 [#509]:     https://leetcode.com/problems/fibonacci-number
 [#665]:     https://leetcode.com/problems/implement-trie-prefix-tree
+[#695]:     https://leetcode.com/problems/max-area-of-island
 [#700]:     https://leetcode.com/problems/search-in-a-binary-search-tree
 [#701]:     https://leetcode.com/problems/insert-into-a-binary-search-tree
 [#703]:     https://leetcode.com/problems/kth-largest-element-in-a-stream
