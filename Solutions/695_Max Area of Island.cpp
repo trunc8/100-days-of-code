@@ -1,3 +1,4 @@
+// Solution 1: My solution, bfs, iterative, slow
 class Solution {
 private:
     vector<vector<int>> grid;
@@ -59,5 +60,35 @@ public:
             }
         }
         return max_area;
+    }
+};
+
+// Solution 2: Referred discussions, dfs, recursive, very fast and short soln
+class Solution {
+public:
+    int maxAreaOfIsland(vector<vector<int>>& grid) {
+        int max_area = 0;
+        int m = grid.size();
+        int n = grid.at(0).size();
+        for( int i=0; i<m; i++ ){
+            for( int j=0; j<n; j++ ){
+                if( grid.at(i).at(j) )
+                    max_area = max( max_area, explore(grid,m,n,i,j) );
+            }
+        }
+        return max_area;
+    }
+private:
+    int explore(vector<vector<int>>& grid, int m, int n, int i, int j){
+        if( i<0 or j<0 or i>=m or j>=n or !grid.at(i).at(j) )
+            return 0;
+        grid.at(i).at(j) = 0;
+        return (
+            1 +
+            explore(grid,m,n,i-1,j) + 
+            explore(grid,m,n,i,j-1) + 
+            explore(grid,m,n,i+1,j) + 
+            explore(grid,m,n,i,j+1)
+        );
     }
 };
