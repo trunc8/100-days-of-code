@@ -119,20 +119,36 @@
 - [#105][]: Construct Binary Tree from Preorder and Inorder Traversal
 
 #### Day 26 (15-Jul-22)
-- [#695][]: Max Area of Island 
+- [#695][]: Max Area of Island
+- [#100][]: Same Tree
 
-#### Day 27 (16-Jul-22)
+// Skipped a week
+
+#### Day 27 (22-Jul-22)
+- [#242][]: Valid Anagram
+
+#### Day 28 (23-Jul-22)
 - [#][]: 
 
-#### Day 28 (17-Jul-22)
+#### Day 29 (24-Jul-22)
+- [#][]: 
+
+#### Day 30 (25-Jul-22)
+- [#][]: 
+
+#### Day 31 (26-Jul-22)
+- [#][]: 
+
+#### Day 32 (27-Jul-22)
 - [#][]: 
 
 
 [#1]:       https://leetcode.com/problems/two-sum
 [#2]:       https://leetcode.com/problems/add-two-numbers
 [#15]:      https://leetcode.com/problems/3sum
-[#97]:      https://leetcode.com/problems/interleaving-string/
-[#105]:      https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+[#97]:      https://leetcode.com/problems/interleaving-string
+[#100]:     https://leetcode.com/problems/same-tree
+[#105]:     https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 [#121]:     https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 [#125]:     https://leetcode.com/problems/valid-palindrome
 [#128]:     https://leetcode.com/problems/longest-consecutive-sequence
@@ -141,11 +157,12 @@
 [#199]:     https://leetcode.com/problems/binary-tree-right-side-view
 [#208]:     https://leetcode.com/problems/implement-trie-prefix-tree
 [#215]:     https://leetcode.com/problems/kth-largest-element-in-an-array
-[#217]:     https://leetcode.com/problems/contains-duplicate/
-[#239]:     https://leetcode.com/problems/sliding-window-maximum/
-[#338]:     https://leetcode.com/problems/counting-bits/
-[#371]:     https://leetcode.com/problems/sum-of-two-integers/
-[#376]:     https://leetcode.com/problems/wiggle-subsequence/
+[#217]:     https://leetcode.com/problems/contains-duplicate
+[#239]:     https://leetcode.com/problems/sliding-window-maximum
+[#242]:     https://leetcode.com/problems/valid-anagram
+[#338]:     https://leetcode.com/problems/counting-bits
+[#371]:     https://leetcode.com/problems/sum-of-two-integers
+[#376]:     https://leetcode.com/problems/wiggle-subsequence
 [#406]:     https://leetcode.com/problems/queue-reconstruction-by-height
 [#416]:     https://leetcode.com/problems/partition-equal-subset-sum
 [#462]:     https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
@@ -158,11 +175,11 @@
 [#703]:     https://leetcode.com/problems/kth-largest-element-in-a-stream
 [#745]:     https://leetcode.com/problems/prefix-and-suffix-search
 [#746]:     https://leetcode.com/problems/min-cost-climbing-stairs
-[#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
-[#1465]:    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
-[#1473]:    https://leetcode.com/problems/paint-house-iii/
+[#1423]:    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+[#1465]:    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+[#1473]:    https://leetcode.com/problems/paint-house-iii
 [#1642]:    https://leetcode.com/problems/furthest-building-you-can-reach
 [#1647]:    https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
-[#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
-[#1696]:    https://leetcode.com/problems/jump-game-vi/
-[#1710]:    https://leetcode.com/problems/maximum-units-on-a-truck/
+[#1689]:    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
+[#1696]:    https://leetcode.com/problems/jump-game-vi
+[#1710]:    https://leetcode.com/problems/maximum-units-on-a-truck
